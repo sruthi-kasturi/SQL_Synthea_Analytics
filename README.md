@@ -1,4 +1,4 @@
-# 🏥 SQL Project: In-Depth Analysis of the Synthea Dataset
+# 🏥 Synthea_SQL_Analytics: In-Depth Analysis of the Synthea Dataset
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -16,6 +16,7 @@
 
 ## Introduction
 Welcome to my first SQL project! This repository contains a comprehensive analysis of the Synthea dataset, aimed at uncovering meaningful insights into healthcare patterns. The main focus areas include health conditions, vaccination trends, and hospital encounter durations.
+Link to the dataset
 
 ## Project Structure
 - **`SQL_Project_final.pdf`**: Dive into the detailed report that covers my analysis, findings, and conclusions.
