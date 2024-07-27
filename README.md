@@ -19,7 +19,7 @@ Welcome to my first SQL project! This repository contains a comprehensive analys
 Link to the dataset
 
 ## Project Structure
-- **`SQL_Project_final.pdf`**: Dive into the detailed report that covers my analysis, findings, and conclusions.
+- **`Synthea Report.pdf`**: Dive into the detailed report that covers my analysis, findings, and conclusions.
 - **`SQL_Project_script.sql`**: Explore the complete SQL script that powers this analysis.
 
 ## Setup Instructions
